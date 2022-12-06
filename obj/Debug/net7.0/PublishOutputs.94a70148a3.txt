@@ -1,7 +1,0 @@
-C:\Users\Dimas Adriansyah\Documents\workspace\mythicpro\repo\devops\demo-app\bin\Debug\net7.0\publish\demo-app.exe
-C:\Users\Dimas Adriansyah\Documents\workspace\mythicpro\repo\devops\demo-app\bin\Debug\net7.0\publish\appsettings.Development.json
-C:\Users\Dimas Adriansyah\Documents\workspace\mythicpro\repo\devops\demo-app\bin\Debug\net7.0\publish\appsettings.json
-C:\Users\Dimas Adriansyah\Documents\workspace\mythicpro\repo\devops\demo-app\bin\Debug\net7.0\publish\demo-app.dll
-C:\Users\Dimas Adriansyah\Documents\workspace\mythicpro\repo\devops\demo-app\bin\Debug\net7.0\publish\demo-app.deps.json
-C:\Users\Dimas Adriansyah\Documents\workspace\mythicpro\repo\devops\demo-app\bin\Debug\net7.0\publish\demo-app.runtimeconfig.json
-C:\Users\Dimas Adriansyah\Documents\workspace\mythicpro\repo\devops\demo-app\bin\Debug\net7.0\publish\demo-app.pdb

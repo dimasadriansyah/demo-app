@@ -16553,6 +16553,42 @@
     "CSharpLanguageVersion": 1100
   },
   "RootNamespace": "demo_app",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\Dimas Adriansyah\\Documents\\workspace\\mythicpro\\repo\\devops\\demo-app\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dimas Adriansyah\\Documents\\workspace\\mythicpro\\repo\\devops\\demo-app\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dimas Adriansyah\\Documents\\workspace\\mythicpro\\repo\\devops\\demo-app\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dimas Adriansyah\\Documents\\workspace\\mythicpro\\repo\\devops\\demo-app\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dimas Adriansyah\\Documents\\workspace\\mythicpro\\repo\\devops\\demo-app\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dimas Adriansyah\\Documents\\workspace\\mythicpro\\repo\\devops\\demo-app\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dimas Adriansyah\\Documents\\workspace\\mythicpro\\repo\\devops\\demo-app\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
