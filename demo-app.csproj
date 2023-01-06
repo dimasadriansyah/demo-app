@@ -3,7 +3,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>demo_app</RootNamespace>
+    <RootNamespace>demo-app</RootNamespace>
     <SonarQubeTestProject>false</SonarQubeTestProject>
   </PropertyGroup>
 </Project>
