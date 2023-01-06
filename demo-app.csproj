@@ -1,5 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
-
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
@@ -7,5 +6,4 @@
     <RootNamespace>demo_app</RootNamespace>
     <SonarQubeTestProject>false</SonarQubeTestProject>
   </PropertyGroup>
-
 </Project>
